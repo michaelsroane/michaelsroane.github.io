@@ -61,7 +61,7 @@ copyright_url            : # "copyright" URL, defaults to site.url
 author:
   name: Michael Roane
   avatar: "assets/images/bio-photo.jpg"
-  bio: "Technical Writer bio"
+  # bio: "Technical Writer bio"
   location: "Virginia"
   links:
     - label: "LinkedIn"
