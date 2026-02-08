@@ -1,5 +1,5 @@
 ---
-title: Sample Guide (Concepts and Procedures)
+title: Sample User Guide Procedures and Concepts
 permalink: /how_to_example/
 layout: single
 author_profile: true
@@ -7,6 +7,8 @@ toc: true
 ---
 
 **Note**: This is an example of documentation I have created for multiple organizations in the past. All product names, features, and bugs have been changed. I have changed or removed some content to obscure the organization, product, and release contents.
+
+For more information about my process, toolchain, and challenges, see [User Guide: Procedures and Concepts](./projects.md#user-guide-procedures-and-concepts) on the Documentation Projects page.
 
 ---
 

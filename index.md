@@ -55,7 +55,7 @@ As a Technical Communicator, I'm always learning new tools and technologies. All
 - Metadata
 - Static Site Generators (Jekyll)
 
-# Projects
+# Documentation Projects
 Over the course of my Technical Writing career, I have completed a variety of deliverables for both internal (within the company) and external (customer-facing) audiences. To view my documentation samples, see [Projects](/projects/).
 
 # Education

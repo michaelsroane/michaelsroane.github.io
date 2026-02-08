@@ -2,6 +2,12 @@
 main:
   - title: "Projects"
     url: /projects/
+  - title: Release Notes Sample
+    url: /rel_notes_example/
+  - title: User Guide Sample
+    url: /how_to_example/
+  - title: Internal Procedure Sample
+    url: /internal_wiki/ 
   # - title: "About"
   #  url: /about/  
   # - title: "Sample Posts"

@@ -1,5 +1,5 @@
 ---
-title: Sample Release Notes
+title: Release Notes Sample
 permalink: /rel_notes_example/
 layout: single
 author_profile: true
@@ -8,6 +8,8 @@ toc: true
 
 **Note**: This is an example of documentation I have created for multiple organizations in the past. All product names, features, and bugs have been changed. I have changed or removed some content to obscure the organization, product, and release contents.
 
+For more information about my process, toolchain, and challenges, see [Release Notes](./projects.md#release-notes) on the Documentation Projects page.
+
 ---
 
 # Release Notes for ProductOne 2.1.0
@@ -15,7 +17,7 @@ toc: true
 ## About ProductOne
 *This section provides an overview of the product. This text in reused from the product overview short description provided in all documents for this product.*
 
-ProductOne, a cloud-based smartphone application, enhances team mobility and simplifies workflows to provide effiicient, reliable communication across multiple locations. With ProductOne, technicians can document customer records while receiving filtered tasks and prioritized notifications.
+ProductOne, a cloud-based smartphone application, enhances team mobility and simplifies workflows to provide efficient, reliable communication across multiple locations. With ProductOne, technicians can document customer records while receiving filtered tasks and prioritized notifications.
 
 This ProductOne version is compatible with the latest release of the ProductTwo server architecture, which provides an Administrator Console to configure and monitor ProductOne installation and usage. For more information about ProductTwo compatibility and supported mobile devices, see the ProductOne 2.1.0 Administrator Guide.
 
