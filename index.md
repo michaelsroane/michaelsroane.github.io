@@ -5,7 +5,9 @@ author_profile: true
 toc: true
 ---
 
-I am a professional Technical Writer with over 20 years of experience, writing software documentation for both internal and external audiences.
+I am a professional Technical Writer with over 20 years experience creating and editing documentation for internal and external audiences, including 10+ years supporting cloud-based products. Adept at working remotely with globally distributed teams across the United States, Europe, the Middle East, and Asia.
+
+Rapid learner with a passion for understanding new technologies, product architectures, and complex systems to produce clear, accurate, and user-focused content.
 
 # Skills
 ## Technical Communication Skills
@@ -53,9 +55,8 @@ As a Technical Communicator, I'm always learning new tools and technologies. All
 - Metadata
 - Static Site Generators (Jekyll)
 
-
-
-
 # Projects
 Over the course of my Technical Writing career, I have completed a variety of deliverables for both internal (within the company) and external (customer-facing) audiences. To view my documentation samples, see [Projects](/projects/).
+
 # Education
+I received a Bachelor of Science degree in Technical and Scientific Communication from James Madison University.

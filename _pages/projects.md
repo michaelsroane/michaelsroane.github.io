@@ -43,7 +43,7 @@ This sample includes a set of individual topics published within a User Guide fo
 During the development of the new desktop agent, I worked with the Software Engineering team, the Support team, and the Network Engineering team to finalize the steps required to deploy the new agent on our customers' endpoints. The Network Engineering team and I walked through the configuration update in real-time to follow the written procedure and update the text as needed.
 
 ### Toolchain
-The original files are DITA topics. I created the original topics in the oXygen editor and used SVN for version control. I published the ditamaps to PDF and WebHelp transformation scenarios in oXygen, then uploaded the published files to Salesforce.
+The original files are DITA topics. I created the original topics in the Oxygen editor and used SVN for version control. I published the ditamaps to PDF and WebHelp transformation scenarios in Oxygen, then uploaded the published files to Salesforce.
 
 I recreated the topics here in Markdown.
 
