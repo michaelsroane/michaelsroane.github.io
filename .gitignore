@@ -3,5 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+CLAUDE.md
+ug_two.md
 
 Gemfile.lock
