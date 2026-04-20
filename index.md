@@ -5,55 +5,38 @@ author_profile: true
 toc: true
 ---
 
-I am a professional Technical Writer with over 20 years experience creating and editing documentation for internal and external audiences, including 10+ years supporting cloud-based products. Adept at working remotely with globally distributed teams across the United States, Europe, the Middle East, and Asia.
+I am a professional Technical Writer specializing in cloud-based product, API, and integration documentation for developer and enterprise audiences. Experienced in docs-as-code workflows, Agile development environments, and AI-assisted content development. Adept at working autonomously and collaboratively with globally distributed engineering and product teams.
 
 Rapid learner with a passion for understanding new technologies, product architectures, and complex systems to produce clear, accurate, and user-focused content.
 
 # Skills
+At its core, Technical Communication is about learning a new subject and teaching other people about it. I learn new topics through research, interviews with experts, and hands-on usage. 
+
 ## Technical Communication Skills
-At its core, Technical Communication is about learning a new subject and teaching other people about it. Learning can be achieved through research, interviews with experts, and hands-on usage. 
-- Technical Writing
-- Technical Editing
-- Documentation Management
-- Documentation Project Management
-- Software Documentation
-- Content Design 
-- Information Architecture
-- Agile / Scrum
+
+| Technical Writing       | Documentation Management          | Content Design |
+| Technical Editing       | Documentation Strategy            | Information Architecture |
+| Software Documentation&nbsp;&nbsp;&nbsp;  | Documentation Project Management  | Agile and  Scrum |
 
 ## Content and Deliverables
-- Online Help
-- User Guides
-- Administration Guides
-- Release Notes
-- Wikis
-- Technical Specifications
-- Tech Alerts / Release Announcements
-- Knowledge Base Articles
+
+| Online Help                                               | Integration Guides                                        | API Specifications       |
+| User Guides                                               | Configuration Guides&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | Technical Specifications |
+| Administration Guides&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tech Alerts                                               | Release Announcements    |
+| Release Notes                                             | Wikis                                                     | Knowledge Base Articles  |
+| Installation Guides                                       | Deployment Guides                                         | Quick Start Guides       |
 
 ## Tools and Technologies
-As a Technical Communicator, I'm always learning new tools and technologies. All new tools and technologies can be learned with the correct motivation and attitude.
-- MS Office
-- Oxygen XML Editor
-- MadCap Flare
-- Heretto
-- Zoomin
-- Adobe Acrobat
-- Adobe FrameMaker
-- Adobe RoboHelp
-- Confluence
-- Jira
-- Git
-- SVN
-- Perforce
-- Snagit
-- Visual Studio Code
-- Markdown
-- DITA XML
-- Hyper Text Markup Language (HTML)
-- Cascading Style Sheets (CSS)
-- Metadata
-- Static Site Generators (Jekyll)
+
+| Oxygen XML Editor                         | Markdown                                                    | Jira             | 
+| Heretto CCMS                              | DITA XML                                                    | Git              |  
+| Zoomin Content Platform&nbsp;&nbsp;&nbsp; | DocBook XML                                                 | GitHub           |
+| Flare                                     | HTML                                                        | SVN              |   
+| FrameMaker                                | CSS                                                         | Perforce         | 
+| RoboHelp                                  | Metadata                                                    | Confluence       |
+| Acrobat                                   | Static Site Generators (Jekyll)&nbsp;&nbsp;&nbsp;&nbsp;     | Jenkins          | 
+| Snagit                                    | Visual Studio Code                                          | Microsoft Office | 
+| Photoshop                                 | AI Agents (ChatGPT, Claude, Gemini)                         | Google Workspace
 
 # Documentation Projects
 Over the course of my Technical Writing career, I have completed a variety of deliverables for both internal (within the company) and external (customer-facing) audiences. To view my documentation samples, see [Projects](/projects/).
