@@ -43,7 +43,7 @@ ProductOne 2.1.0 is compatible with the latest release of the ProductTwo server 
 This section provides a list of critical issues resolved in this release.
 
 - The ProductOne app no longer plays the ringtone after connecting to a video call.
-- Conference calls now correctly display the information for all attendees. Previously, the app was showing the details for the first 3 attendees only. 
+- Conference calls now correctly display the information for all attendees. Previously, the app showed the details for the first 3 attendees only. 
 - If a user declines a call and receives a voicemail from the caller, the app now opens the Voicemail screen instead of the keypad when the user taps the voicemail notification.
 
 ## Known Issues in this Release
